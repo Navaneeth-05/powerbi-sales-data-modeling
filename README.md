@@ -25,15 +25,15 @@ Starting with a highly connected dataset containing 23 tables, I transformed the
 
 ### Overall Dashboard
 
-![Overall Dashboard](images/whole_dashboard.png)
+![Overall Dashboard](whole_dashboard.png)
 
 ### Dashboard – Sales & KPIs
 
-![Sales Dashboard](images/filter_dashboard1.png)
+![Sales Dashboard](filter_dashboard1.png)
 
 ### Dashboard – Regional Analysis
 
-![Regional Dashboard](images/filter_dashboard2.png)
+![Regional Dashboard](filter_dashboard2.png)
 
 ---
 
@@ -41,7 +41,7 @@ Starting with a highly connected dataset containing 23 tables, I transformed the
 
 ### Star Schema
 
-![Star Schema Data Model](images/star_schema.png)
+![Star Schema Data Model](star_schema.png)
 
 
 ##  Description
