@@ -4,7 +4,7 @@
 
 This project demonstrates the redesign of a complex sales data model into a clean and scalable Star Schema using Power BI.
 
-Starting with a highly connected dataset containing 23 tables, I transformed the original relational model into an optimized dimensional model consisting of fact and dimension tables. I also implemented Row-Level Security (RLS) to enable secure, role-based access to reports.
+Starting with a highly connected dataset containing 23 tables, I transformed the original relational model into an optimized dimensional model consisting of fact and dimension tables. Also implemented Row-Level Security (RLS) to enable secure, role-based access to reports.
 
 ## Features
 
